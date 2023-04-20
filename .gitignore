@@ -1,0 +1,7 @@
+.vscode
+# carpeta bin
+bin
+# Migrations
+Migrations
+# obj
+obj
